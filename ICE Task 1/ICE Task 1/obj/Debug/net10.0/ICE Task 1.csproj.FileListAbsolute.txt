@@ -1,0 +1,14 @@
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\bin\Debug\net10.0\ICE Task 1.exe
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\bin\Debug\net10.0\ICE Task 1.deps.json
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\bin\Debug\net10.0\ICE Task 1.runtimeconfig.json
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\bin\Debug\net10.0\ICE Task 1.dll
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\bin\Debug\net10.0\ICE Task 1.pdb
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.AssemblyInfoInputs.cache
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.AssemblyInfo.cs
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.csproj.CoreCompileInputs.cache
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.dll
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\refint\ICE Task 1.dll
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.pdb
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ICE Task 1.genruntimeconfig.cache
+C:\Users\troyf.TROYS_LAPTOP\source\repos\ICE Task 1\ICE Task 1\obj\Debug\net10.0\ref\ICE Task 1.dll

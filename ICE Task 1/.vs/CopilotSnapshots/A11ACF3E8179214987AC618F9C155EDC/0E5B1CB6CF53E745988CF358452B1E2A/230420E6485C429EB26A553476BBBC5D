@@ -1,0 +1,30 @@
+﻿namespace ICE_Task_1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("** Student Grade Calculator **");
+
+            Console.Write("Enter the student's name: ");
+            var FullName = Console.ReadLine();
+
+            Console.Write("Enter score 1 (out of 100");
+            var score1 = double.Parse(Console.ReadLine());
+
+            Console.Write("Enter score 2 (out of 100");
+            var score2 = double.Parse(Console.ReadLine());
+
+            Console.Write("Enter score 3 (out of 100");
+            var score3 = double.Parse(Console.ReadLine());
+
+            if (String.IsNullOrEmpty(FullName))
+                throw new ArgumentException("ARGH!");
+            FullName.First().ToString().ToUpper() + FullName.Substring(1);
+
+
+            var averageScore = (score1 + score2 + score3) / 3;
+
+        }
+    }
+}
